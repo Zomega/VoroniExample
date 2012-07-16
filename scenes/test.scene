@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?scene version="0.1"?>
+<scene>
+	<!--Defines a series of points...-->
+	<point	name="p1"	x="0.123"	y="0.234"	z="5"	/>
+	<point	name="p2"	x="1"		y="2"		z="4"	/>
+	<point	name="p3"	x="0.123"	y="0.234"	z="45"	/>
+	<!--Two ways to define faces...-->
+	<face	name="f1"	vertices="p1 p2 p3"	/>
+	<face	name="f2">
+		<point x="0.123" y="0.345" z="3"/>
+		<point x="0.123" y="0.345" z="3"/>
+		<point x="0.123" y="0.345" z="3"/>
+	</face>
+</scene>
+
+
+

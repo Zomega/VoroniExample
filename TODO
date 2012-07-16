@@ -1,0 +1,40 @@
+[\] graph.h
+	[\] Code
+		[X] Classes outlined
+		[X] Enable linking and unlinking
+		[X] getNeighbors( NodeData )
+		[ ] Way to access excident edges?
+		[ ] Way to remove Nodes?
+	[ ] Safeties and errors
+	[ ] Documentations and comments
+	[ ] Header
+	[ ] Make into abstract class.
+[\] vector.h
+	[ ] Code
+	[ ] Safeties and errors
+	[ ] Documentations and comments
+	[ ] Header
+[\] transform.h
+	[ ] Code
+	[ ] Safeties and errors
+	[ ] Documentations and comments
+	[ ] Header
+[\] line.h
+	[ ] Code
+	[ ] Safeties and errors
+	[ ] Documentations and comments
+	[ ] Header
+[ ] voroniGraph.h
+	[ ] Code
+	[ ] Safeties and errors
+	[ ] Documentations and comments
+	[ ] Header
+[ ] pointcloud.h
+	[ ] Code
+	[ ] Safeties and errors
+	[ ] Documentations and comments
+	[ ] Header
+[\] visualization
+	[X] Show points
+	[X] Show segments
+	[ ] Integrate with voroniGraph

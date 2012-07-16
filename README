@@ -1,2 +1,1 @@
-VoroniExample
-=============
+converter.py - Hacked together python script to make .scene files from existing data. To use it, provide the a file with one point on each line, each element of the point separated by a space. There should be no blank lines, and every line must have three numerical elements and no other characters. You should be able to use find and replace to achieve this for most existing data.
