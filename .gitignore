@@ -1,9 +1,6 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+#Ignore build files.
+*.out
+*.pyc
 
-# Project property files
-.actionScriptProperties
-.flexProperties
-.settings/
-.project
+#Ignore temp files.
+*~
